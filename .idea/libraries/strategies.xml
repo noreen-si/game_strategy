@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="strategies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/strategies/AI5Strategy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/strategies/RandomStrategy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/strategies/AI2Strategy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/strategies/AI1Strategy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/strategies/AI3Strategy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/strategies/NoOpStrategy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/strategies/AI4Strategy.jar!/" />
+      <root url="file://$PROJECT_DIR$/strategies" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/strategies" recursive="false" />
+  </library>
+</component>
